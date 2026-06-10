@@ -1,0 +1,61 @@
+body{
+    font-family: Arial;
+    background-color:white;
+}
+
+nav{
+    width:700px;
+    margin:auto;
+    margin-top:40px;
+    display:flex;
+}
+
+nav a{
+    text-decoration:none;
+    background:#2196f3;
+    color:black;
+    border:1px solid #555;
+    padding:20px 35px;
+    font-size:25px;
+}
+
+.contenedor{
+    width:700px;
+    margin:50px auto;
+    background:#79e7f0;
+    border:12px solid #005bc4;
+    border-radius:40px;
+    padding:50px;
+}
+
+table{
+    margin:auto;
+}
+
+td{
+    padding:15px;
+    font-size:28px;
+    color:#003f7f;
+    font-weight:bold;
+}
+
+input{
+    width:300px;
+    height:30px;
+}
+
+button{
+    width:120px;
+    height:120px;
+    background:white;
+    border:none;
+    font-size:30px;
+    color:#003f7f;
+    font-style:italic;
+    font-weight:bold;
+}
+
+hr{
+    width:700px;
+    border:2px solid #005bc4;
+}
